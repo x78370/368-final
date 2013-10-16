@@ -2,10 +2,10 @@
 
 
 ##Objectives
-*Learn the skills necessary to create user-friendly, effective, and accessible websites.
-*some of this
-*and some of that
+* Learn the skills necessary to create user-friendly, effective, and accessible websites.
+* some of this
+* and some of that
 
 ##References
-*[CodePen](http://codepen.io)
-*[Team Treehouse](http://teamtreehouse.com)
+* [CodePen](http://codepen.io)
+* [Team Treehouse](http://teamtreehouse.com)
