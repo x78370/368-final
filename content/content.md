@@ -8,6 +8,12 @@
   - amazing lists 
   - are easy with this
 
-##References
+##About
+I am spastic...
+
+##Portfolio
+This is what I've done
+
+##Resources
 * [CodePen](http://codepen.io)
 * [Team Treehouse](http://teamtreehouse.com)
